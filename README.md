@@ -2,7 +2,7 @@
 # Main page
 This is the compilation results of my simulation for completing the "hello world" tutorial using biomolecular modelling software. The link source of the tutorials that are provided. 
 # Disclaimer
-all of the copyright that been used belongs to the source of the tutorial.
+All of the copyright that been used belongs to the source of the tutorial.
 
 
 # Setup (on Windows 10)
@@ -17,13 +17,13 @@ up until this text was written the official GUI for WSL2 was not provided by Mic
 - Biobb-based gromacs 
 
 # Molecular Visualization
-- pymol
+- Pymol
 - VMD
 
 # docking
 
 # cloud based simulation
-- google-collab Protein-ligand simulation (gromacs)
+- Google-Collab Protein-ligand simulation (gromacs)
 
 
 Muhammad Rady Irawan 
