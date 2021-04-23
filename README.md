@@ -1,6 +1,9 @@
 # Bio-molecular Simulation
 # Main page
-This is the compilation results of my simulation for completing the "hello world" tutorial using biomolecular modelling software. The link source of the tutorials that are provided. all of the copyright belongs to the source of the tutorial and the software that used in this tutorial.
+This is the compilation results of my simulation for completing the "hello world" tutorial using biomolecular modelling software. The link source of the tutorials that are provided. 
+# Disclaimer
+all of the copyright that been used belongs to the source of the tutorial and the software that used in this tutorial.
+
 
 # Setup (on Windows 10)
 - WSL2 
