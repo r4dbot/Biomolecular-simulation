@@ -2,7 +2,7 @@
 # Main page
 This is the compilation results of my simulation for completing the "hello world" tutorial using biomolecular modelling software. The link source of the tutorials that are provided. 
 # Disclaimer
-all of the copyright that been used belongs to the source of the tutorial and the software that used in this tutorial.
+all of the copyright that been used belongs to the source of the tutorial.
 
 
 # Setup (on Windows 10)
