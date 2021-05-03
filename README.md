@@ -20,7 +20,8 @@ up until this text was written the official GUI for WSL2 was not provided by Mic
 - Pymol
 - VMD
 
-# docking
+# Molecular_Docking
+- Autodock
 
 # cloud based simulation
 - Google-Collab Protein-ligand simulation (gromacs)
