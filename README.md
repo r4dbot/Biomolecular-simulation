@@ -20,7 +20,7 @@ up until this text was written the official GUI for WSL2 was not provided by Mic
 - Pymol
 - VMD
 
-# Molecular_Docking
+# Molecular Docking
 - Autodock
 
 # cloud based simulation
