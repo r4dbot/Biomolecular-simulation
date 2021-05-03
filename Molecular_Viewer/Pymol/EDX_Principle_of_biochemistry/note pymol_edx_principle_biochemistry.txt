@@ -1,0 +1,46 @@
+this exercise is ungraded
+
+>2_0
+downloading pymol
+http://pymol.org/edu/?q=educational/
+
+>2_2
+2dn2 pdb
+https://www.rcsb.org/structure/2DN2
+
+3_1
+pdb 1q95 ATCase (r-state)
+https://www.rcsb.org/structure/1q95
+pymol script link
+https://courses.edx.org/assets/courseware/v1/3a5f5c8d69fe13ca6b5f0a352a44d61d/asset-v1:harvardx+MCB63X+1T2020+type@asset+block/ATCase_loading_script.pml
+
+3_2
+pymol wiki 
+
+4_1
+pdb brain-type CK
+http://www.rcsb.org/pdb/explore/explore.do?structureId=3drb
+http://www.rcsb.org/pdb/explore/explore.do?structureId=3B6r
+http://www.rcsb.org/pdb/explore/explore.do?structureId=3dre
+reference
+http://www.ncbi.nlm.nih.gov/pubmed/18977227
+
+4_2
+pdb mitochondrial type CK
+http://www.rcsb.org/pdb/explore/explore.do?structureId=1QK1
+
+4_3
+consurf
+https://consurf.tau.ac.il/overview.php
+b-factor
+http://en.wikipedia.org/wiki/Debye%E2%80%93Waller_factor
+prepared pdb pymol-consurf
+https://courses.edx.org/assets/courseware/v1/1a4f1ab9b40a59db8c157b541d4008ec/asset-v1:harvardx+MCB63X+1T2020+type@asset+block/3b6r_ConSurf.pdb
+brain-type
+https://courses.edx.org/assets/courseware/v1/1a4f1ab9b40a59db8c157b541d4008ec/asset-v1:harvardx+MCB63X+1T2020+type@asset+block/3b6r_ConSurf.pdb
+mt-type
+https://courses.edx.org/assets/courseware/v1/3ebf13c407cdbd5435e10a745e1bcc93/asset-v1:harvardx+MCB63X+1T2020+type@asset+block/1qk1_ConSurf.pdb
+http://www.pymolwiki.org/index.php/Selection_Algebra
+
+
+copyright belong to EDX
