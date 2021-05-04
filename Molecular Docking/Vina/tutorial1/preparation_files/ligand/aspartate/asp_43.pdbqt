@@ -1,0 +1,42 @@
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_2  and  CA_4
+REMARK    2  A    between atoms: CA_4  and  N_5
+REMARK    3  A    between atoms: CA_4  and  C_14
+REMARK    4  A    between atoms: C_6  and  CA_8
+REMARK    5  A    between atoms: CA_8  and  CB_10
+REMARK    6  A    between atoms: CB_10  and  CG_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      5  N   VAL A   2      -0.846  -0.021   0.363  0.00  0.00    +0.000 NA
+ATOM      6  C   ASP A   1       0.292   0.692  -0.059  0.00  0.00    +0.000 C 
+ATOM      7  O   ASP A   1       0.173   1.607  -0.919  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6   8
+ATOM      8  CA  ASP A   1       1.588  -0.250  -0.429  0.00  0.00    +0.000 C 
+ATOM      9  N   ASP A   1       1.645  -0.832   1.065  0.00  0.00    +0.000 NA
+BRANCH   8  10
+ATOM     10  CB  ASP A   1       2.653   0.979  -0.030  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  CG  ASP A   1       3.923   0.204  -0.159  0.00  0.00    +0.000 C 
+ATOM     12  OD1 ASP A   1       4.171  -0.728   0.658  0.00  0.00    +0.000 OA
+ATOM     13  OD2 ASP A   1       4.697   0.222  -1.317  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   5   4
+ATOM      4  CA  VAL A   2      -2.054  -0.057  -0.698  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  CG1 VAL A   2      -2.147  -2.432  -0.980  0.00  0.00    +0.000 C 
+ATOM      2  CB  VAL A   2      -2.764  -1.435  -0.064  0.00  0.00    +0.000 C 
+ATOM      3  CG2 VAL A   2      -2.240  -1.691   1.271  0.00  0.00    +0.000 C 
+ENDBRANCH   4   2
+BRANCH   4  14
+ATOM     14  C   VAL A   2      -2.994   0.944   0.205  0.00  0.00    +0.000 C 
+ATOM     15  O   VAL A   2      -3.045   2.114  -0.287  0.00  0.00    +0.000 OA
+ATOM     16  OXT VAL A   2      -3.051   0.683   1.536  0.00  0.00    +0.000 OA
+ENDBRANCH   4  14
+ENDBRANCH   5   4
+TORSDOF 6
