@@ -1,0 +1,530 @@
+MODEL 1
+REMARK VINA RESULT:      -4.9      0.000      0.000
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2      11.211  57.329   7.103  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2       9.617  57.178   7.183  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1       9.005  56.878   8.351  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1       9.551  56.029   9.069  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1       8.186  58.045   9.164  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1       7.074  56.987   9.635  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1       7.290  58.436   7.805  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1       7.306  59.932   7.825  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1       6.402  60.628   8.324  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1       8.502  60.539   7.520  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2      11.458  56.198   5.927  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2      10.457  56.405   5.152  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2      11.322  54.884   6.411  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2      11.048  58.575   5.991  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2      12.062  59.508   6.578  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2      14.072  60.740   5.947  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2      13.299  59.586   5.794  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2      13.506  58.880   4.789  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.8      1.781      2.030
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2      10.823  57.530   7.523  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2       9.257  57.679   7.216  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1       8.432  58.295   8.092  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1       8.610  58.055   9.295  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1       7.877  59.805   7.766  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1       6.690  59.638   8.833  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1       6.898  59.234   6.534  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1       6.837  60.402   5.601  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1       5.856  61.163   5.505  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1       8.025  60.797   5.031  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2      10.848  55.882   7.623  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2      11.642  55.694   8.613  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2      11.459  55.288   6.504  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2      11.156  57.521   5.878  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2      11.450  58.981   5.720  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2      13.507  58.824   4.417  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2      12.880  59.272   5.583  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2      13.605  59.566   6.553  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.7     29.288     30.776
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2       7.705  83.237  25.268  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2       7.494  82.072  26.347  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1       6.386  82.033  27.121  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1       5.980  83.113  27.573  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1       5.211  80.932  26.808  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1       4.278  82.061  26.150  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1       4.510  81.177  28.308  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1       4.546  79.807  28.911  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1       4.818  79.583  30.105  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1       3.989  78.793  28.168  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2       9.124  83.818  25.879  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2       9.983  83.042  25.325  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2       9.234  83.609  27.266  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2       8.486  82.162  24.243  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2       7.468  82.148  23.145  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2       7.411  82.693  20.767  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2       7.775  83.083  22.059  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2       8.614  83.997  22.172  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.7     12.197     14.195
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2      17.802  67.684  11.017  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2      17.577  66.982  12.439  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1      18.346  65.941  12.831  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1      18.619  65.090  11.972  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1      19.508  66.170  13.967  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1      18.913  64.981  14.867  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1      18.569  67.297  14.774  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1      19.544  68.402  15.038  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1      19.858  69.265  14.198  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1      19.891  68.615  16.352  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2      16.287  67.413  10.420  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2      15.566  67.539  11.473  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2      16.117  66.089   9.975  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2      17.373  69.169  11.669  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2      18.338  70.019  10.901  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2      17.634  70.462   8.607  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2      17.685  70.904   9.932  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2      17.500  72.118  10.144  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.7     16.978     19.394
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2      25.776  55.989  -6.014  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2      24.224  55.757  -5.691  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1      23.780  55.692  -4.416  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1      24.483  55.065  -3.609  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1      22.957  56.958  -3.774  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1      21.996  55.965  -2.957  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1      21.890  56.984  -5.064  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1      22.060  58.373  -5.596  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1      22.155  58.644  -6.807  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1      21.825  59.402  -4.714  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2      25.870  54.948  -7.292  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2      24.997  55.439  -8.092  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2      25.426  53.654  -6.961  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2      25.390  57.294  -6.995  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2      25.814  58.386  -6.061  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2      27.636  59.956  -5.655  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2      26.917  59.198  -6.583  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2      27.017  59.507  -7.785  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.5      2.554      6.692
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2       6.619  58.303   9.145  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2       7.616  58.283   7.891  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1       8.909  57.915   8.037  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1       9.499  58.328   9.046  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1       9.403  56.444   7.503  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1       9.776  55.987   8.995  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1      10.960  57.004   7.247  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1      11.476  56.062   6.204  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1      11.345  54.825   6.262  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1      11.867  56.621   5.010  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2       5.577  59.438   8.551  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2       6.246  60.519   8.719  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2       4.416  59.561   9.335  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2       5.745  57.031   8.486  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2       6.206  55.957   9.423  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2       4.357  56.441  10.940  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2       5.712  56.132  10.792  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2       6.466  56.360  11.758  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.5      2.175      3.485
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2      10.937  57.751   7.962  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2       9.499  57.987   7.296  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1       9.058  59.234   7.016  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1       9.289  60.113   7.858  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1       9.034  59.759   5.462  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1       7.805  60.744   5.775  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1       7.984  58.535   5.011  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1       8.703  57.899   3.862  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1       9.227  58.539   2.932  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1       9.021  56.568   3.998  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2      10.736  56.149   8.305  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2       9.665  56.167   9.011  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2      11.754  55.648   9.136  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2      11.596  57.433   6.452  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2      12.916  58.111   6.655  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2      13.543  59.606   4.832  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2      12.963  59.465   6.095  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2      12.844  60.489   6.795  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.4     11.008     13.222
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2      17.671  68.256  13.028  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2      17.388  67.042  12.022  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1      16.155  66.839  11.506  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1      15.194  66.991  12.273  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1      15.854  67.225   9.939  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1      14.637  66.181   9.878  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1      16.926  66.062   9.393  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1      17.325  66.592   8.052  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1      18.115  66.012   7.284  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1      16.569  67.626   7.549  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2      18.726  67.455  14.014  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2      18.343  66.239  13.870  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2      18.537  67.775  15.371  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2      18.897  68.816  12.028  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2      18.166  69.982  11.439  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2      17.211  70.709   9.314  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2      18.239  70.031   9.975  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2      18.935  69.243   9.307  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.3     18.042     20.884
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2      26.376  49.110   2.336  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2      25.938  47.569   2.340  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1      26.282  46.744   1.326  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1      26.209  47.206   0.178  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1      27.469  45.632   1.546  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1      27.501  45.301  -0.024  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1      26.350  44.417   1.816  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1      27.195  43.320   2.385  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1      27.365  43.138   3.605  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1      27.568  42.319   1.519  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2      24.899  49.737   2.721  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2      24.186  49.352   1.727  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2      24.893  51.144   2.696  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2      26.842  48.994   3.944  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2      28.002  49.940   3.891  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2      29.138  51.225   5.627  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2      27.953  50.974   4.930  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2      26.887  51.368   5.440  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -4.3     16.151     19.300
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CD_2  and  CG_4
+REMARK    2  A    between atoms: CG_4  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CA_6
+REMARK    4  A    between atoms: CA_6  and  N_7
+REMARK    5  A    between atoms: CA_6  and  C_16
+REMARK    6  A    between atoms: C_8  and  CA_10
+REMARK    7  A    between atoms: CA_10  and  CB_12
+REMARK    8  A    between atoms: CB_12  and  CG_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      6  CA  GLN A   2      25.275  55.900  -5.855  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   6   7
+ATOM      7  N   GLN A   2      23.710  55.576  -5.968  0.00  0.00    +0.000 NA
+ATOM      8  C   ASP A   1      23.013  55.129  -4.899  0.00  0.00    +0.000 C 
+ATOM      9  O   ASP A   1      23.571  54.292  -4.175  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  CA  ASP A   1      21.985  56.140  -4.116  0.00  0.00    +0.000 C 
+ATOM     11  N   ASP A   1      22.069  57.209  -5.310  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  CB  ASP A   1      23.249  56.886  -3.311  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  CG  ASP A   1      22.845  56.751  -1.877  0.00  0.00    +0.000 C 
+ATOM     14  OD1 ASP A   1      22.492  55.678  -1.354  0.00  0.00    +0.000 OA
+ATOM     15  OD2 ASP A   1      23.142  57.811  -1.052  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   6  16
+ATOM     16  C   GLN A   2      25.767  54.937  -7.102  0.00  0.00    +0.000 C 
+ATOM     17  O   GLN A   2      24.895  55.211  -8.002  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLN A   2      25.624  53.569  -6.810  0.00  0.00    +0.000 OA
+ENDBRANCH   6  16
+BRANCH   6   5
+ATOM      5  CB  GLN A   2      25.082  57.238  -6.849  0.00  0.00    +0.000 C 
+BRANCH   5   4
+ATOM      4  CG  GLN A   2      26.369  57.928  -6.519  0.00  0.00    +0.000 C 
+BRANCH   4   2
+ATOM      1  NE2 GLN A   2      27.376  59.738  -7.809  0.00  0.00    +0.000 NA
+ATOM      2  CD  GLN A   2      27.110  58.370  -7.704  0.00  0.00    +0.000 C 
+ATOM      3  OE1 GLN A   2      27.199  57.682  -8.739  0.00  0.00    +0.000 OA
+ENDBRANCH   4   2
+ENDBRANCH   5   4
+ENDBRANCH   6   5
+TORSDOF 8
+ENDMDL
