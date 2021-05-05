@@ -1,7 +1,7 @@
 # Bio-molecular Simulation
 # Main page
 This is the compilation results of my simulation for completing the "hello world" tutorial using biomolecular modelling software. The link source of the tutorials that are provided.<br/>
-Do not to forget check the Readme in each section for more information and link to the source.
+Do not forget check the Readme in each section for more information and link to the source.
 
 # Disclaimer
 All of the copyright that been used belongs to the source of the tutorial.
